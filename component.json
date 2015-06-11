@@ -1,0 +1,22 @@
+{
+  "name": "mustache",
+  "version": "2.1.2",
+  "repo": "factorial-io/mustache.js",
+  "authors": [
+    "mustache.js Authors <http://github.com/janl/mustache.js>"
+  ],
+  "description": "Logic-less {{mustache}} templates with JavaScript",
+  "scripts": [
+    "mustache.js"
+  ],
+  "styles": [
+
+  ],
+  "keywords": [
+    "mustache",
+    "template",
+    "templates",
+    "ejs"
+  ],
+  "license": "MIT",
+}
